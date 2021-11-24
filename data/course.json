@@ -1,0 +1,42 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Ecology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "f6f1005e-3478-bdfa-e890-76bc32ef64ae"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Environmental Conflict",
+  "course_description": "This course explores the complex interrelationships among humans and natural environments, focusing on non-western parts of the world in addition to Europe and the United States. It uses environmental conflict to draw attention to competing understandings and uses of \"nature\" as well as the local, national and transnational power relationships in which environmental interactions are embedded. In addition to utilizing a range of theoretical perspectives, this subject draws upon a series of ethnographic case studies of environmental conflicts in various parts of the world.\n",
+  "department_numbers": [
+    "21A",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.320J",
+  "primary_course_number": "21A.429J",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
